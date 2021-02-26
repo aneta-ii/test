@@ -1,5 +1,5 @@
 {
-  "tutorial_title": "Learn Helm!",
+  "tutorial_title": "Learn helm!",
   "tutorial_subtitle": "Build your first chart",
   "image_registry": "hub.docker.com",
   "image": "tsl0922/ttyd:alpine",
