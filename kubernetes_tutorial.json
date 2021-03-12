@@ -4,7 +4,7 @@
   "image_registry": "docker.io",
   "image": "tsl0922/ttyd:alpine",
   "image_tag": "v0.0.1",
-  "description": "Get familiar with Kubernetes",
+  "description": "Testing with docker.io",
   "link_to_Md": "https://github.com/aneta-ii/test/blob/develop/kubernetes.md",
   "enabled": "true"
 }
