@@ -1,7 +1,7 @@
 {
-  "tutorial_title": "Kubernetes for dummies",
+  "tutorial_title": "Testing Image with Docker.io",
   "tutorial_subtitle": "",
-  "image_registry": "hub.docker.com",
+  "image_registry": "docker.io",
   "image": "tsl0922/ttyd:alpine",
   "image_tag": "v0.0.1",
   "description": "Get familiar with Kubernetes",
