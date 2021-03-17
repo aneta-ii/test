@@ -1,7 +1,7 @@
 {
   "tutorial_title": "Learn helm!",
-  "tutorial_subtitle": "Build your first chart",
-  "image_registry": "hub.docker.com",
+  "tutorial_subtitle": "Dockerhub repo",
+  "image_registry": "",
   "image": "tsl0922/ttyd:alpine",
   "image_tag": "v0.0.1",
   "description": "Step by step tutorial how to build your first helm chart",
